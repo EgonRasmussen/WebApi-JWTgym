@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyJWT", "MyJWT.csproj", "{058FDAAB-DE59-41AB-AEE3-FB010288D915}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{68E8954F-F153-4408-84EF-3DC44216C8AD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058FDAAB-DE59-41AB-AEE3-FB010288D915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058FDAAB-DE59-41AB-AEE3-FB010288D915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058FDAAB-DE59-41AB-AEE3-FB010288D915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058FDAAB-DE59-41AB-AEE3-FB010288D915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D21FFC4-58F1-4341-8B51-683A3D309336}
+	EndGlobalSection
+EndGlobal
